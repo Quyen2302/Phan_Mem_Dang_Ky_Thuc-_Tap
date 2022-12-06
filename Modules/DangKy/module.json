@@ -1,0 +1,13 @@
+{
+    "name": "DangKy",
+    "alias": "dangky",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DangKy\\Providers\\DangKyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
